@@ -1,2 +1,2 @@
-# Consumindo_uma_API_com_Laravel
+# Consumindo_uma_API
  consumindo a API "jsonplaceholder" litando tarefas de usuarios fictícios, usando laravel.
